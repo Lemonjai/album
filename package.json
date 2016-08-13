@@ -1,0 +1,25 @@
+{
+  "name": "albumz",
+  "version": "1.0.0",
+  "description": "Music Album Manager",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leo Cheung",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "connect-flash": "*",
+    "cookie-parser": "*",
+    "ejs": "*",
+    "express": "*",
+    "express-session": "*",
+    "express-validator": "*",
+    "firebase": "^3.2.1",
+    "morgan": "*",
+    "multer": "*",
+    "path": "*"
+  }
+}
